@@ -1,0 +1,19 @@
+img{
+    margin-left: 50px;
+    width: 150px;
+    border-radius: 100px;
+    margin-bottom:50px ;
+}
+
+.header{
+    display: flex;
+}
+
+.description{
+    margin-left: 25px;
+}
+
+hr{
+    margin-left: 50px;
+    margin-right:51px;
+}
