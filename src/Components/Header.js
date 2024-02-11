@@ -11,7 +11,7 @@ function Header() {
       <div className="description">
         <h1>Shivam Rajput</h1>
         <p>Final Year Undergraduate Student in IIT Delhi</p>
-        <p>I am a Competetive Programmer and a Web Developer</p>
+        <p>I am a Competitive Programmer and a Web Developer</p>
       </div>
       </div>
       <hr/>

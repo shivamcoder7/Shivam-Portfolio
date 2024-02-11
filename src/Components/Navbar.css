@@ -1,0 +1,6 @@
+.Navbar_options{
+    display: flex;
+    /* justify-content: flex-end; */
+    /* text-align: left; */
+    align-items: right;
+}
